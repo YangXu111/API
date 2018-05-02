@@ -1,2 +1,2 @@
 # testproject
-for testing
+for testing purpose
